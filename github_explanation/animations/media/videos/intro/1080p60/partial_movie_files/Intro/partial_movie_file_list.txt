@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/PC_User/OneDrive/デスクトップ/github_explanation/github_explanation/animations/media/videos/intro/1080p60/partial_movie_files/Intro/3977891868_1848562889_223132457.mp4'
+file 'file:C:/Users/PC_User/OneDrive/デスクトップ/github_explanation/github_explanation/animations/media/videos/intro/1080p60/partial_movie_files/Intro/2852726489_4217992463_1652575628.mp4'
+file 'file:C:/Users/PC_User/OneDrive/デスクトップ/github_explanation/github_explanation/animations/media/videos/intro/1080p60/partial_movie_files/Intro/2852726489_1085057535_2741139092.mp4'
+file 'file:C:/Users/PC_User/OneDrive/デスクトップ/github_explanation/github_explanation/animations/media/videos/intro/1080p60/partial_movie_files/Intro/2852726489_4217992463_2222353601.mp4'
+file 'file:C:/Users/PC_User/OneDrive/デスクトップ/github_explanation/github_explanation/animations/media/videos/intro/1080p60/partial_movie_files/Intro/2852726489_4146915412_1765567318.mp4'
